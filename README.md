@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartHire: Resume Analyzer and Job Matching System
 **Course: Programming in Java (25CSE0202)**
 
@@ -222,3 +223,6 @@ Enter your choice:
    - Sub-option 5: Render candidate $\times$ job matching matrix using `double[][] matchingScores`!
 6. **Option 14 (`Export Candidates and Reports to CSV`)**:
    Exports structured CSVs to `reports/candidates_export.csv` and `reports/matching_results_export.csv`.
+=======
+# Smart-Resume-Analyzer
+>>>>>>> c79bbdf6f224c874b78c08ccb4ba22cbf2feafb4
