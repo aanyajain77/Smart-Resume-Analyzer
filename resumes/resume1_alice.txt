@@ -1,0 +1,33 @@
+reALICE JOHNSON
+Email: alice.johnson@example.com
+Phone: +1 (555) 234-5678
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Senior Java Developer with 6.0 years of experience architecting and building high-performance, distributed backend systems and RESTful microservices.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Stanford University | 2018
+
+TECHNICAL SKILLS
+Java, Spring Boot, Spring Security, Hibernate, MySQL, Docker, Kubernetes, AWS, Kafka, Microservices, REST API, Git, JUnit, Redis, SQL, Linux
+
+WORK EXPERIENCE
+Senior Software Engineer | CloudScale Systems (2021 - Present)
+- Designed and maintained scalable Java Spring Boot microservices handling over 50M API requests per day.
+- Reduced database query latency by 45% using Redis distributed caching and MySQL indexing strategies.
+- Containerized microservices using Docker and orchestrated automated CI/CD deployments to AWS with Kubernetes.
+
+Software Engineer | FinTech Innovations (2018 - 2021)
+- Built secure RESTful APIs adhering to OAuth2 / Spring Security protocols for payment processing.
+- Developed asynchronous event-driven pipelines utilizing Apache Kafka and RabbitMQ.
+
+KEY PROJECTS
+- Distributed Payment Gateway: High-throughput payment processing engine built with Java, Spring Boot, MySQL, and Kafka.
+- Cloud Resource Autoscaler: Automated monitoring and autoscaling service leveraging AWS SDK, Docker, and REST APIs.
+- Real-Time Analytics Dashboard: Real-time telemetry aggregator with Redis caching and Spring Data JPA.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Oracle Certified Professional: Java SE 11 Developer

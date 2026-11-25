@@ -1,0 +1,6 @@
+Candidate ID,Candidate Name,Email,Job ID,Job Title,Company,Final Score %,Skills Score,Exp Score,Edu Score,Proj Score,Tier,Missing Skills
+1,"ALICE JOHNSON","alice.johnson@example.com",1,"Senior Java Developer","TechCorp Systems",100.00,40.00,25.00,20.00,15.00,"Strong Match (Top Priority)",""
+1,"ALICE JOHNSON","alice.johnson@example.com",1,"Senior Java Developer","TechCorp Systems",100.00,40.00,25.00,20.00,15.00,"Strong Match (Top Priority)",""
+2,"BOB SMITH","bob.smith@example.com",1,"Senior Java Developer","TechCorp Systems",54.00,12.00,10.00,20.00,12.00,"Moderate Match (Consider with Training)","Spring Boot; Docker; REST API"
+3,"CAROL WILLIAMS","carol.williams@example.com",1,"Senior Java Developer","TechCorp Systems",76.50,22.00,22.50,20.00,12.00,"Good Match (Recommended)","Java; Spring Boot; REST API"
+4,"DAVID BROWN","david.brown@example.com",1,"Senior Java Developer","TechCorp Systems",79.50,30.00,17.50,20.00,12.00,"Good Match (Recommended)",""

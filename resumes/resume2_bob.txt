@@ -1,0 +1,27 @@
+BOB SMITH
+Email: bob.smith@example.com
+Phone: (555) 987-6543
+Location: Austin, TX
+
+CAREER OBJECTIVE
+Junior Software Developer with 2.0 years of experience in Java programming, database administration, and web applications.
+
+EDUCATION
+BCA in Computer Applications
+Texas State University | 2022
+
+SKILLS
+Java, HTML, CSS, JavaScript, SQL, SQLite, MySQL, Git, OOP, Data Structures
+
+WORK EXPERIENCE
+Junior Software Developer | Apex Software Labs (2022 - Present)
+- Developed database-driven desktop applications using Core Java and JDBC.
+- Maintained backend SQL queries in SQLite and MySQL databases.
+- Assisted senior engineers in writing automated tests with JUnit.
+
+PROJECTS
+- Library Management System: Java console and JDBC desktop project managing book inventories and student loans.
+- Student Grade Portal: Web-based student management dashboard utilizing HTML, CSS, and JavaScript.
+
+CERTIFICATIONS
+- Coursera Java Programming Foundations

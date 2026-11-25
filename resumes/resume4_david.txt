@@ -1,0 +1,27 @@
+DAVID BROWN
+Email: david.brown@example.com
+Phone: 555-678-1234
+Location: New York, NY
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 3.5 years of experience delivering modern web applications across frontend and backend tiers.
+
+EDUCATION
+Bachelor of Science in Information Technology
+City University of New York | 2020
+
+TECHNICAL SKILLS
+Java, Spring Boot, React, TypeScript, JavaScript, SQL, MySQL, PostgreSQL, Docker, Git, REST API, HTML, CSS, Redux, Node.js
+
+WORK EXPERIENCE
+Full Stack Developer | MetroTech Solutions (2020 - Present)
+- Developed enterprise React and TypeScript web portals integrated with Java Spring Boot backend services.
+- Created reusable UI components and state management with React and Redux.
+- Designed REST APIs, mapped database entities using Hibernate and MySQL, and deployed using Docker containers.
+
+PROJECTS
+- E-Commerce Marketplace: Full stack e-commerce web platform built with React, Spring Boot, MySQL, and Docker.
+- Task Collaboration Portal: Real-time team management dashboard using Node.js, React, and MongoDB.
+
+CERTIFICATIONS
+- Oracle Certified Associate: Java SE 8 Programmer

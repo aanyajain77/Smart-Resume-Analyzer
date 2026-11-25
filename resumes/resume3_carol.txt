@@ -1,0 +1,27 @@
+CAROL WILLIAMS
+Email: carol.williams@example.com
+Phone: +1 555-432-1098
+Location: Seattle, WA
+
+SUMMARY
+Data Engineer with 4.5 years of experience building real-time data pipelines, data warehouses, and analytics infrastructure.
+
+EDUCATION
+Master of Science in Data Science
+University of Washington | 2019
+
+TECHNICAL SKILLS
+Python, SQL, Spark, Kafka, AWS, Docker, Kubernetes, PostgreSQL, MongoDB, Redis, Linux, Machine Learning, Pandas, NumPy, Git
+
+WORK EXPERIENCE
+Data Engineer | DataGrid Analytics (2019 - Present)
+- Developed and maintained automated ETL workflows using Python, Apache Spark, and AWS S3/Glue.
+- Optimized analytical queries in PostgreSQL, reducing pipeline execution duration by 35%.
+- Implemented real-time anomaly detection pipelines using Kafka and Python.
+
+PROJECTS
+- Streaming Fraud Detection: Real-time fraud detection engine using Kafka, Python, Spark Streaming, and PostgreSQL.
+- Cloud Data Lakehouse: Automated data ingestion pipeline storing 10TB+ telemetry in AWS S3 with Dockerized services.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate

@@ -1,0 +1,2 @@
+1	Backend	Oracle	Java	AWS	3.0	Btech
+2	frontend	addidas	java, html, react	python	3.0	btech
